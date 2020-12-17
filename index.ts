@@ -37,3 +37,5 @@ let strlength = (<string> notAString).length;
 // ^ ideally you would declare the variable with an explicit type, but if that cannot be done, then casting it as a certain type is possible
 
 
+
+
