@@ -8,6 +8,8 @@ There are three different types in TypeScript:
  - User-defined type
 
 The any data type is the superset of all the data types in TypeScript. Giving any variable the type of any is equivalent to opting out of type checking for a variable.
+ - It can do everything JS can do and more
+ - created and maintained by microsoft
 
 ```let myVariable: any = 'This is a string'```
 
@@ -24,4 +26,3 @@ OOP
  Interface
   - allows the programmer to define the structure of variables.
   - is a 'syntactical contract' to which an object should conform
-  
